@@ -1,0 +1,8 @@
+Lunes:10:12:"Cisco uno"
+Lunes:13:15:"test driven monday 2"
+Lunes:17:18:"reu de lunes"
+Martes:12:14:"reu de Martes"
+Miercoles:12:16:"larga de miercoles"
+Jueves:10:12:Jueves
+Viernes:9:12:"viernes primera hora"
+Viernes:15:16:"ultima de viernes"

@@ -1,0 +1,7 @@
+Lunes:08:00:20:00:work
+Martes:08:00:20:00:work
+Miercoles:08:00:20:00:work
+Jueves:08:00:20:00:work
+Viernes:08:00:20:00:work
+Sabado:08:00:20:00:weekend
+Domingo:08:00:20:00:weekend
