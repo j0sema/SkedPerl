@@ -16,6 +16,7 @@ main();
 sub main(){
    print_agenda();
 
+   print "parte de la version 2.0\n";
    exit;
 }
 
